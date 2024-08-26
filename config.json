@@ -1,7 +1,7 @@
 {
   "language": "en",
   "DeveloperMode": true,
-  "autoCreateDB": true,
+  "autoCreateDB": false,
   "allowInbox": true,
   "autoClean": true,
   "adminOnly": false,
@@ -18,21 +18,21 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "EMAIL": "cliffvincenttorrevillas@gmail.com",
-  "BOTOWNER": "𝘾𝙇𝙄𝙁𝙁 𝙑𝙄𝙉𝘾𝙀𝙉𝙏",
-  "OWNERLINK": "https://www.facebook.com/swordigo.swordslush",
-  "PASSWORD": "pogicgena",
-  "OTPKEY": "secret",
-  "BOTNAME": "𝙔𝙖𝙯𝙠𝙮𝙗𝙤𝙩",
-  "PREFIX": "#",
+  "EMAIL": "",
+  "BOTOWNER": "Mark Martinez",
+  "OWNERLINK": "https://www.facebook.com/profile.php?id=100030880666720&mibextid=ZbWKwL",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "TUTEL BOT",
+  "PREFIX": ",",
   "ADMINBOT": [
-    "100053549552408",
-    "61557118090040"
+    "100030880666720",
+    "61564533577602"
   ],
   "DESIGN": {
-    "Title": "CLIFFBOT",
-    "Theme": "Blue",
-    "Admin": "Cliff",
+    "Title": "TUTELBOT",
+    "Theme": "Aqua",
+    "Admin": "Mark Martinez",
     "Setup": {
       "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
@@ -78,14 +78,14 @@
     "WOLFRAM": "T8J8YV-H265UQ762K"
   },
   "sing": {
-    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "YOUTUBE_API": "AIzaSyC-M5Z2_SGdMuPmYF3m5DoGHKzWGlf4gFM",
     "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
   },
   "video": {
     "YOUTUBE_API": "AIzaSyAjeTLC26CokIQi7XCfUL1V-Yzjf_FZjRo"
   },
   "audio": {
-    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    "YOUTUBE_API": "AIzaSyC-M5Z2_SGdMuPmYF3m5DoGHKzWGlf4gFM"
   },
   "menu": {
     "autoUnsend": true,
